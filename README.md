@@ -48,6 +48,7 @@ The main goal of this project was to:
 
 ## 📁 Project Structure
 
+```
 
 ZERODHA_CLONE/
 │
